@@ -1,0 +1,30 @@
+body {
+    background: #f1f1f1; 
+    margin-left: 10px
+}
+
+.circle {
+    background-color: #aaa;
+    border-radius: 50%;
+    width: 170px;
+    height: 170px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 10px 10px 10px 5px rgb(65, 63, 63);
+    border: solid 4px rgb(185, 201, 201);
+}
+  
+  .circle img {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    outline-color:black;
+    background-color: #aaa;   
+    
+  }
+
+h1{
+    color:rgb(143, 201, 211); 
+    font-family: 'Times New Roman', Times, serif;
+
+}
